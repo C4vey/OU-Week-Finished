@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        OU Week-Finished
-// @namespace   http://userscripts.org/users/435889
+// @namespace   https://github.com/C4vey/ou-week-finished
 // @description Hides weeks that are marked finished (have all boxes checked) in the study planner.
 // @include     https://learn2.open.ac.uk/course/view.php?id=*
 // @version     1.0
